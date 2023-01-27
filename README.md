@@ -1,6 +1,6 @@
 ### Support information for the article
 
-## Principles, Evaluation Metrics and Method for Planned Regulatory Inspection Targeting
+## Principles, Evaluation Metrics, and Method for Planned Regulatory Inspection Targeting
 
 This repositpry includes:
 
